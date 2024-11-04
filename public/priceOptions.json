@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Plan",
+        "price": 29.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "1 personal training session per month"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard Plan",
+        "price": 49.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "4 personal training sessions per month",
+            "Access to group fitness classes",
+            "Free fitness assessment"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium Plan",
+        "price": 69.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "Unlimited personal training sessions",
+            "Access to group fitness classes",
+            "Free fitness assessment",
+            "Access to sauna and steam room",
+            "Priority booking for classes"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Family Plan",
+        "price": 99.99,
+        "features": [
+            "Access to gym equipment for up to 4 family members",
+            "Locker room access",
+            "8 personal training sessions per month",
+            "Access to group fitness classes",
+            "Free fitness assessment for each family member",
+            "Access to sauna and steam room",
+            "Priority booking for classes"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Student Plan",
+        "price": 19.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "2 personal training sessions per month",
+            "Access to group fitness classes",
+            "Discount on fitness merchandise"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Senior Plan",
+        "price": 24.99,
+        "features": [
+            "Access to gym equipment",
+            "Locker room access",
+            "3 personal training sessions per month",
+            "Access to group fitness classes",
+            "Free fitness assessment",
+            "Access to senior-specific fitness programs"
+        ]
+    }
+]
